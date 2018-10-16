@@ -1,1 +1,1 @@
-# sublimetext3
+Sublime Text 3 Config/Settings Files
